@@ -1,14 +1,8 @@
-# Manual-Testing
-This repository contains Manual testing projects I've made. This project are include test cases, scenarios, reports, and test metrics for manual testing projects. It serves as a comprehensive resource for manual testers to effectively plan, execute, and track their testing efforts.
+# Manual-Testing Tokopedia
+This repository contains Manual Testing of the Tokopedia Website, one of the biggest e-commerce in Indonesia. The focus of this testing is about the sign up and sign in functionality. The repository includes test execution reports, test cases, and test metrics to effectively plan, execute, and track the testing activities for the Tokopedia.
 
-## Test Cases
-The test-cases directory contains a collection of test cases written for different features or modules of the system under test. Each test case should include the following information:
+## Project Overview
+Tokopedia is one of the most popular marketplaces in Indonesia. Founded in 2009, Tokopedia is based in Jakarta and solely serves the Indonesian market. The company claims to be available in 99% of cities in the country while offering 865 million products by over 12 million merchants. The application allows users to sign up for an account, sign in to their existing account, and perform various actions such as browsing products, adding items to the cart, and making purchases.
+[Tokopedia Website](https://www.tokopedia.com/)
 
-- Test case ID
-- Test case description
-- Pre-requisites
-- Test steps
-- Expected results
-- Actual results (to be filled during test execution)
 
-Test cases are essential for ensuring thorough test coverage and providing a clear roadmap for manual testing.
